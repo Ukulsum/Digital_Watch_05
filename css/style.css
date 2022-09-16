@@ -1,0 +1,16 @@
+body{
+    background-color: wheat;
+}
+#my_watch{
+    top: 35%;
+    left: 34%;
+    position: fixed;
+    background-color: rgb(37, 34, 29);
+    color: yellow;
+    padding: 50px;
+    border-radius: 20px;
+    box-shadow: 0px 10px 50px rgba(0,0,0,0.5)
+}
+span{
+    font-size: 50px;
+};
